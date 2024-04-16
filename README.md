@@ -17,7 +17,7 @@ For a deeper dive into the inspirations and technology behind "World Foods Explo
 
 Before enjoying the features of "World Foods Explorer," ensure you meet the following prerequisites:
 
-- Python 3.6 or higher installed
+- Python 3.9
 - An active OpenAI API key
 
 ### Installation
