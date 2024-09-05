@@ -43,10 +43,13 @@ To set up the project locally, follow these steps:
   streamlit run main.py
 Navigate to http://localhost:8501 in your web browser to interact with "World Foods Explorer."
 
-##Contributing
+
+For more detail version of the project, check my blog https://aryasingh.hashnode.dev/world-food-wisdom-a-langchain-and-openai-powered-culinary-odyssey/
+
+## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
 
-##License
+## License
 This project is released under the MIT License.
 
 ## Contact
