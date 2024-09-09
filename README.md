@@ -49,9 +49,6 @@ For more detail version of the project, check my blog https://aryasingh.hashnode
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
 
-## License
-This project is released under the MIT License.
-
 ## Contact
 For any queries or feedback, please open an issue in the GitHub repository.
 
